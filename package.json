@@ -1,0 +1,23 @@
+{
+  "name": "webscraping",
+  "version": "1.0.0",
+  "description": "algoritmo para pegar dados públicos, analisar e preparar estatística",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webscraping",
+    "nodejs",
+    "dados",
+    "públicos"
+  ],
+  "author": "Denis Martins",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^4.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
